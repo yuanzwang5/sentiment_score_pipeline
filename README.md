@@ -1,5 +1,5 @@
-# Sentiment Score Pipeline for AIFT
+# Sentiment Score Pipeline
 
-### Combine bond and Chinese Financial News to calculate sentiment scores;
+Combine bond and Chinese Financial News to calculate sentiment scores;
 
-### Use data from MySQL in AIFT and monthly update results automatically;
+Use data from MySQL in AIFT and monthly update results automatically;
